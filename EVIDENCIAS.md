@@ -1,6 +1,6 @@
-# Evidencias: equipo <apellido 1>, <apellido 2>, <apellido 3>
+# Evidencias: equipo Valencia, Valencia, Padilla
 
-**Integrantes:** <nombre completo 1>, <nombre completo 2>, <nombre completo 3>
+**Integrantes:** José David Valencia Martínez, Juan Camilo Valencia Estrada, Santiago Padilla Valencia
 
 ## 1. Errores de sintaxis corregidos
 
